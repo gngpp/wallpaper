@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
  * @author mac
  * @date 2021/3/21
  **/
-public class HttpUtil {
+public class RequestUtil {
 
 
     public static String getFileNameFromPath(String path) {
